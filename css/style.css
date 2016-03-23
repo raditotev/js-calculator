@@ -1,0 +1,29 @@
+body{
+  background: #333;
+}
+
+.container{
+  margin-top: 15%; 
+}
+
+
+input{
+  width: 100%;
+  font-size: 30px;
+}
+
+button{
+  width: 100%;
+}
+
+.col-xs-3, .col-xs-12{
+  padding: 0px;
+}
+
+.btn{
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+
